@@ -30,3 +30,7 @@ Output: [0,0,9,0,0]
   * multiple the postfix with input array[i].
 * return your output array.
 
+## Reference 
+* Neetcode https://www.youtube.com/watch?v=bNvIQI2wAjk
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill
+

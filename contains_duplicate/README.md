@@ -29,7 +29,7 @@ Output: false
 * when it loop over all the input array and there is no similar number in the hashset it return ``false``.
 
 
-### Time complexity is ``0(n)`` , space/memoery is ``0(1)``
+### Time complexity is ``0(n)`` , space/memory is ``0(1)``
 ## References 
 * neetcode https://youtu.be/3OamzN90kPg
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set
